@@ -2,4 +2,4 @@ Esta es mi historia
 
 Hola soy Oscar Alonso, nací en 2004 en Lima, Perú.
 
-Actualmente tengo 19 años y espero convertirme en un gran dev frontend y ya estoy entendiendo un poco más git.
+Actualmente voy a cumplir 20 años y voy a ir a la universidad
